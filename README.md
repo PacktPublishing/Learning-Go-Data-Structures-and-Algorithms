@@ -24,8 +24,11 @@ By the end of this course, you would have mastered functional and reactive imple
 To fully benefit from the coverage included in this course, you will need:<br/>
 This video is for developers who would like to learn data structures and algorithms in Golang. Prior knowledge of basic Go programming would be an advantage.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
--
+### Minimum Hardware Requirements
+<UL>
+<LI>OS: GNU/Linux Distribution (ex: Ubuntu, Debian, Fedora, etc.), Mac OS, Microsoft Windows</LI>
+<LI>Processor: Relatively modern CPU (Intel Core iX series 4th gen,  AMD equivalent)</LI>
+<LI>Memory: 4GB</LI></UL>
 
 ## Related Products
 * [Practical Ansible Solutions [Video]](https://www.packtpub.com/networking-and-servers/practical-ansible-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781788476904)
